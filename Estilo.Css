@@ -1,0 +1,32 @@
+body{
+margin: 0 auto;
+
+}
+
+img{
+    max-width: 100%;
+}
+
+header{
+    background: rgb(58, 2, 58);
+    height: 60px;
+}
+
+header h1{
+    margin: 0%;
+    color: #FFF;
+    padding: 16px; /**margem interna**/
+}
+
+main{
+    width:  600px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    border-radius: 50%;
+    background-color: #f2df;
+}
